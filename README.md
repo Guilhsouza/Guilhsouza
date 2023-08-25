@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá Pessoal! 👋
 
-<!--
-**Guilhsouza/Guilhsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+### Onde me encontrar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhrme-souza/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gui.edu0380@gmail.com)
+---
+### Hard Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,postgres,git,vscode)](https://skillicons.dev)
+
+>Acredita que acontece! 🚀
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhsouza&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagens)
