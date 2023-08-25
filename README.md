@@ -5,7 +5,8 @@ Bem-vindo ao meu perfil! Eu me chamo Guilherme Souza e estou estudando Back-End 
 Estou sempre em busca de novas oportunidades para aprender e evoluir como desenvolvedor backend. Atualmente, estou me aprofundando nos princípios do API REST e estudando padrões de banco de dados para otimizar o desempenho das consultas.
 
 >Acredita que acontece! 🚀
-<hr>
+
+
 
 ## 💡 Tecnologias e Áreas de Interesse
 
