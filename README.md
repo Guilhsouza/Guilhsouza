@@ -28,5 +28,5 @@ Adoraria me conectar com outros estudantes e profissionais da área! Se quiser d
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gui.edu0380@gmail.com)
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhsouza&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagens)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhsouza&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagens)
 
