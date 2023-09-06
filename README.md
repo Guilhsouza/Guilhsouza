@@ -32,7 +32,3 @@ Adoraria me conectar com outros estudantes e profissionais da área! Se quiser d
 
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhsouza&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagens)
 
-<div align="center">
-<p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Guilhsouza}/count.svg" /></p> 
-<hr>
