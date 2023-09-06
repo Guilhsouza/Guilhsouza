@@ -20,13 +20,14 @@ Estou sempre em busca de novas oportunidades para aprender e evoluir como desenv
 ## 💻 Projetos 
 
 - 🏦 [API de banco](https://github.com/Guilhsouza/banking-system-API)
-
 ## 🌎 Entre em contato comigo!
 Adoraria me conectar com outros estudantes e profissionais da área! Se quiser discutir projetos, compartilhar experiências e aprender junto:
+<div align = 'center'>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhrme-souza/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gui.edu0380@gmail.com)
 ---
-<div align = 'center'>
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhsouza&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagens)
 </div>
+
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhsouza&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagens)
+
