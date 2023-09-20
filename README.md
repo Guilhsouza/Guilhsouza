@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil! Eu me chamo Guilherme Souza e inicialmente comecei nest
 
 Estou sempre em busca de novas oportunidades para aprender e evoluir como desenvolvedor Back-End. Atualmente, estou me aprofundando nos princípios do API REST e estudando padrões de banco de dados para otimizar o desempenho das consultas.
 
->Acredita que acontece! 🚀
+>"O sucesso é ir de fracasso em fracasso sem perder o entusiasmo." - Winston Churchill
 
 ## 💡 Tecnologias e Áreas de Interesse
 
