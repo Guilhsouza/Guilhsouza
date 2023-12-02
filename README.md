@@ -21,7 +21,7 @@ Estou sempre em busca de novas oportunidades para aprender e evoluir como desenv
 ## 💻 Projetos 
 
 - 📦 [API Estoque Online](https://github.com/Guilhsouza/API-stock-online)
-- 🥋 [PDV frente de caixa](https://github.com/Guilhsouza/pdv-frente-de-caixa)
+- 🛒 [PDV frente de caixa](https://github.com/Guilhsouza/pdv-frente-de-caixa)
 - 🏦 [API Sistema Bancário](https://github.com/Guilhsouza/banking-system-API)
   
 ## 🌎 Entre em contato comigo!
