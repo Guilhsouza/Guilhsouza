@@ -1,8 +1,8 @@
 # 👋 Olá Pessoa! 
 
-Bem-vindo ao meu perfil! Eu me chamo Guilherme Souza e inicialmente comecei nesta área estudando Front-End. Mas me apaixonei pelo Back-End e desde 2022 venho me aperfeiçoando com estudos focados em **JavaScript** e **Node.js**, estou constantemente buscando me desafiar aplicando meus conhecimentos e aprendendo sobre assuntos novos!
+Bem-vindo ao meu perfil! Eu me chamo Guilherme Souza e inicialmente comecei nesta área estudando Front-End. Mas me apaixonei pelo Back-End e desde 2022 venho me aperfeiçoando com estudos focados em **JavaScript**, **TypeScript** e **Node.js**, estou constantemente buscando me desafiar aplicando meus conhecimentos e aprendendo sobre assuntos novos!
 
-Estou sempre em busca de novas oportunidades para aprender e evoluir como desenvolvedor Back-End. Atualmente, estou me aprofundando nos princípios do API REST e estudando padrões de banco de dados para otimizar o desempenho das consultas.
+Estou sempre em busca de novas oportunidades para aprender e evoluir como desenvolvedor de Software. Atualmente, estou me aprofundando em TypeScript, testes com JEST e Docker.
 
 >"O sucesso é ir de fracasso em fracasso sem perder o entusiasmo." - Winston Churchill
 
