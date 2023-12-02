@@ -20,9 +20,9 @@ Estou sempre em busca de novas oportunidades para aprender e evoluir como desenv
 
 ## 💻 Projetos 
 
-- 🏦 [API Sistema Bancário](https://github.com/Guilhsouza/banking-system-API)
 - 📦 [API Estoque Online](https://github.com/Guilhsouza/API-stock-online)
-- 🥋 [Página Loja de Artigos Esportivos](https://github.com/Guilhsouza/grid-flexbox-page)
+- 🥋 [PDV frente de caixa](https://github.com/Guilhsouza/pdv-frente-de-caixa)
+- 🏦 [API Sistema Bancário](https://github.com/Guilhsouza/banking-system-API)
   
 ## 🌎 Entre em contato comigo!
 Adoraria me conectar com outros estudantes e profissionais da área! Se quiser discutir projetos, compartilhar experiências e aprender junto:
