@@ -37,6 +37,6 @@ Adoraria me conectar com outros estudantes e profissionais da área! Se quiser d
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhsouza&hide_border=true&theme=midnight-purple"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhsouza&hide_border=true&layout=compact&langs_count=6&theme=midnight-purple"/>
 </p>
-
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=Guilhsouza&repo=Guilhsouza&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Guilherme" height="40px" />
+  
+  <img src="https://profile-counter.glitch.me/Guilhsouza/count.svg" alt="Contador de Visitas do Perfil no Github do Guilherme" height="40px" />
 </div>
